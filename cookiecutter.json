@@ -1,6 +1,6 @@
 {
   "full_name": "Sean Smith",
-  "email": "pirsquared.snv@gmail.com",
+  "email": "pirsquared@example.com",
   "project_name": "Python Project Name",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "Provide a short description",
