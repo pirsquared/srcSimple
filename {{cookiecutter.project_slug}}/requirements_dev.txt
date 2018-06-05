@@ -1,0 +1,8 @@
+pip==10.0.1
+coverage==4.5.1
+sphinx==1.7.5
+black=18.5b1
+{% if cookiecutter.command_line_interface == 'y' -%}
+click==6.7{% endif %}
+pytest==3.6.0+
+pytest-runner==4.2
